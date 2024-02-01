@@ -25,18 +25,16 @@ img {
     border-radius: 20px;
 }
 
-p {
+h3 {
     padding: 0px 30px;
-}
-.black {
-    color: hsl(218, 44%, 22%);
-    font-size: 18px;
-    font-weight: 700; 
+    font-size: 17px;
+    font-weight: 700;
 }
 
-.grey {
+p {
     color: hsl(220, 15%, 55%);
     font-size: 15px;
     font-weight: 400;
     margin-top: 0px;
+    padding: 0px 30px;
 }
