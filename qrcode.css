@@ -14,7 +14,7 @@ main {
     align-items: center;
     background-color: hsl(0, 0%, 100%);
     text-align: center;
-    height: 480px;
+    height: 460px;
     width: 310px;
     border-radius: 20px;
 }
@@ -26,17 +26,17 @@ img {
 }
 
 p {
-    font-size: 20px;
-    font-weight: 700;
     padding: 0px 30px;
-
 }
 .black {
-    color: hsl(218, 44%, 22%); 
+    color: hsl(218, 44%, 22%);
+    font-size: 18px;
+    font-weight: 700; 
 }
 
 .grey {
     color: hsl(220, 15%, 55%);
     font-size: 15px;
+    font-weight: 400;
     margin-top: 0px;
 }
