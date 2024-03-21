@@ -2,7 +2,8 @@
 
 My very first **Frontend Mentor project**. 
 
-Inspired and motivated by a particular few from the FEWDR8 group.
+Inspired and motivated by a particular few from the FEWDR8 group. 
+(FEWDR8 - My classmates from a General Assembly course that I took on Frontend Web Development)
 
 As simple QR Code and a nice reminder that if you don't use it you lose it!
 
